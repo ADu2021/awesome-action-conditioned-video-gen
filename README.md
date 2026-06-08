@@ -51,7 +51,7 @@ _"What does the world look like if I take **this** action?"_ — Robotics & Embo
 - [📊 Benchmarks and Evaluation](#benchmarks-and-evaluation)
 - [🔗 Related Awesome Lists](#related-awesome-lists)
 - [🤝 Contributing](#contributing)
-- [⭐ Citation](#citation)
+- [⭐ Star This Project](#star-this-project)
 - [🙏 Acknowledgements](#acknowledgements)
 
 Badge legend: [![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b)](#) paper · [![Project](https://img.shields.io/badge/Project-Page-1e90ff)](#) project page · [![Code](https://img.shields.io/badge/Code-GitHub-2ea44f)](#) code · [![Report](https://img.shields.io/badge/Tech-Report-orange)](#) tech report / blog.
@@ -583,19 +583,9 @@ This list is organized to put **Robotics & Embodied AI** first by design; within
 
 ---
 
-## ⭐ Citation
+## ⭐ Star This Project
 
-If this list is useful for your research, please consider giving it a star ⭐ and citing it:
-
-```bibtex
-@misc{awesome_action_conditioned_video_gen,
-  title        = {Awesome Action-Conditioned Video Generation},
-  author       = {Contributors},
-  howpublished = {\url{https://github.com/<your-username>/awesome-action-conditioned-video-gen}},
-  year         = {2026},
-  note         = {A curated list of action-conditioned video generation models}
-}
-```
+If you find this list useful, please give it a **star** ⭐ — it helps others discover the resource and motivates ongoing maintenance.
 
 ---
 
